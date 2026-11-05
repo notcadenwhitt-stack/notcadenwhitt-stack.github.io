@@ -1,0 +1,1 @@
+for(let e of document.querySelectorAll(`[data-reel-pair]`))for(let t of[`main`,`side`]){let n=e.querySelector(`.reel-${t}`),r=()=>{e.dataset.lead=t};n?.addEventListener(`pointerenter`,e=>{e.pointerType===`mouse`&&r()}),n?.addEventListener(`focusin`,r)}

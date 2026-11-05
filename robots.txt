@@ -1,0 +1,4 @@
+# Concept site for a pitch. Nothing here should be crawled or indexed
+# (PLAN.md R2). Every page also carries <meta name="robots" content="noindex, nofollow">.
+User-agent: *
+Disallow: /

@@ -1,0 +1,5 @@
+/* Loaded only inside <noscript>. With scripting off nothing adds `.in`, so
+   reveal elements must not start hidden. `html .rise` (0,1,1) outranks
+   `.rise` (0,1,0) because Astro appends its stylesheet after this link. */
+html .rise { opacity: 1; transform: none; }
+html .js-only { display: none; }

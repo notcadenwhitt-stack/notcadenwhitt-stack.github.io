@@ -1,0 +1,359 @@
+{
+  "images": [
+    {
+      "file": "src/assets/images/0c6248aa-federal-student-aid-logo.png",
+      "source_name": "Federal Student Aid logo.webp",
+      "pages": [
+        "resources"
+      ],
+      "bytes": 12180
+    },
+    {
+      "file": "src/assets/images/0f8d7d97-npritchett-amillerphotography-04-25-6655.jpg",
+      "source_name": "AlphaEDU_PrestonPritchett_AMillerPhotography_04.25-6655.jpg",
+      "pages": [
+        "home"
+      ],
+      "bytes": 249096
+    },
+    {
+      "file": "src/assets/images/0fff810d-screenshot-2025-05-20-at-11-39-32-am.jpg",
+      "source_name": "Screenshot 2025-05-20 at 11.39.32 AM.jpg",
+      "pages": [
+        "programs_coaching-wk99e"
+      ],
+      "bytes": 267188
+    },
+    {
+      "file": "src/assets/images/110e26a4-u54a5441.jpg",
+      "source_name": "U54A5441.jpg",
+      "pages": [
+        "resources"
+      ],
+      "bytes": 234189
+    },
+    {
+      "file": "src/assets/images/14d96802-fin-aid-logo.png",
+      "source_name": "Fin aid logo.png",
+      "pages": [
+        "resources"
+      ],
+      "bytes": 5452
+    },
+    {
+      "file": "src/assets/images/1ecd04c3-img-1037.jpg",
+      "source_name": "IMG_1037.JPEG",
+      "pages": [
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 314442
+    },
+    {
+      "file": "src/assets/images/1f74ce10-npritchett-amillerphotography-04-25-6702.jpg",
+      "source_name": "AlphaEDU_PrestonPritchett_AMillerPhotography_04.25-6702.jpg",
+      "pages": [
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 293075
+    },
+    {
+      "file": "src/assets/images/2cfd7a57-college-navigator-logo.jpg",
+      "source_name": "College navigator logo.jpg",
+      "pages": [
+        "resources"
+      ],
+      "bytes": 7239
+    },
+    {
+      "file": "src/assets/images/2dc987cb-alphaedustudentpres-52425-17.jpg",
+      "source_name": "AlphaEDUStudentPres - 52425-17.jpg",
+      "pages": [
+        "programs_bootcamps-et4hf"
+      ],
+      "bytes": 435320
+    },
+    {
+      "file": "src/assets/images/36fe609c-alphaedustudentpres-52425-7-1.jpg",
+      "source_name": "AlphaEDUStudentPres - 52425-7 (1).jpg",
+      "pages": [
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 326230
+    },
+    {
+      "file": "src/assets/images/47e0174c-npritchett-amillerphotography-04-25-6413.jpg",
+      "source_name": "AlphaEDU_PrestonPritchett_AMillerPhotography_04.25-6413.jpg",
+      "pages": [
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 241086
+    },
+    {
+      "file": "src/assets/images/4967feef-presentation-picture-2.jpg",
+      "source_name": "Presentation Picture 2.jpg",
+      "pages": [
+        "programs"
+      ],
+      "bytes": 191423
+    },
+    {
+      "file": "src/assets/images/50ab90bf-college-match-logo.jpg",
+      "source_name": "College match logo.jpg",
+      "pages": [
+        "resources"
+      ],
+      "bytes": 48803
+    },
+    {
+      "file": "src/assets/images/5a183f3d-artboard-23.png",
+      "source_name": "Artboard 23.png",
+      "pages": [
+        "about",
+        "home",
+        "programs",
+        "programs_bootcamps-et4hf",
+        "programs_cirriculum-9mktk",
+        "programs_coaching-wk99e",
+        "programs_presentations-kcgwr",
+        "resources"
+      ],
+      "bytes": 16348
+    },
+    {
+      "file": "src/assets/images/5d91175a-npritchett-amillerphotography-04-25-6474.jpg",
+      "source_name": "AlphaEDU_PrestonPritchett_AMillerPhotography_04.25-6474.jpg",
+      "pages": [
+        "programs",
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 235848
+    },
+    {
+      "file": "src/assets/images/61ec96f8-alphaedustudentpres-52425-1.jpg",
+      "source_name": "AlphaEDUStudentPres - 52425 (1).jpg",
+      "pages": [
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 428244
+    },
+    {
+      "file": "src/assets/images/62734614-pritchett-profile-pic-1-2.jpg",
+      "source_name": "Pritchett Profile Pic 1 (2).JPG",
+      "pages": [
+        "about"
+      ],
+      "bytes": 273320
+    },
+    {
+      "file": "src/assets/images/67719f57-npritchett-amillerphotography-04-25-6700.jpg",
+      "source_name": "AlphaEDU_PrestonPritchett_AMillerPhotography_04.25-6700.jpg",
+      "pages": [
+        "home"
+      ],
+      "bytes": 304935
+    },
+    {
+      "file": "src/assets/images/71bc2f2b-npritchett-amillerphotography-04-25-6360.jpg",
+      "source_name": "AlphaEDU_PrestonPritchett_AMillerPhotography_04.25-6360.jpg",
+      "pages": [
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 230170
+    },
+    {
+      "file": "src/assets/images/7f928098-favicon.png",
+      "source_name": "favicon.ico",
+      "pages": [
+        "about",
+        "home",
+        "programs",
+        "programs_bootcamps-et4hf",
+        "programs_cirriculum-9mktk",
+        "programs_coaching-wk99e",
+        "programs_presentations-kcgwr",
+        "resources"
+      ],
+      "bytes": 6400
+    },
+    {
+      "file": "src/assets/images/8a6d3b74-college-scorecard-logo.jpg",
+      "source_name": "College scorecard logo.jfif",
+      "pages": [
+        "resources"
+      ],
+      "bytes": 31637
+    },
+    {
+      "file": "src/assets/images/8c4600f3-college-counts-logo.png",
+      "source_name": "college counts logo.png",
+      "pages": [
+        "resources"
+      ],
+      "bytes": 12294
+    },
+    {
+      "file": "src/assets/images/94937171-npritchett-amillerphotography-04-25-6435.jpg",
+      "source_name": "AlphaEDU_PrestonPritchett_AMillerPhotography_04.25-6435.jpg",
+      "pages": [
+        "about"
+      ],
+      "bytes": 224453
+    },
+    {
+      "file": "src/assets/images/972849dd-alphaedustudentpres-52425-17-1.jpg",
+      "source_name": "AlphaEDUStudentPres - 52425-17 (1).jpg",
+      "pages": [
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 435320
+    },
+    {
+      "file": "src/assets/images/9fa2772f-screenshot-2025-05-20-at-10-45-33-am.jpg",
+      "source_name": "Screenshot 2025-05-20 at 10.45.33 AM.jpg",
+      "pages": [
+        "programs",
+        "programs_cirriculum-9mktk"
+      ],
+      "bytes": 91370
+    },
+    {
+      "file": "src/assets/images/a71e354c-alphaedustudentpres-52425-9-1.jpg",
+      "source_name": "AlphaEDUStudentPres - 52425-9 (1).jpg",
+      "pages": [
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 586636
+    },
+    {
+      "file": "src/assets/images/b5aa6d5b-alphaedustudentpres-52425-16-1.jpg",
+      "source_name": "AlphaEDUStudentPres - 52425-16 (1).jpg",
+      "pages": [
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 525173
+    },
+    {
+      "file": "src/assets/images/b86c8306-artboard-15.png",
+      "source_name": "Artboard 15.png",
+      "pages": [
+        "about",
+        "home",
+        "programs",
+        "programs_bootcamps-et4hf",
+        "programs_cirriculum-9mktk",
+        "programs_coaching-wk99e",
+        "programs_presentations-kcgwr",
+        "resources"
+      ],
+      "bytes": 15228
+    },
+    {
+      "file": "src/assets/images/b9ff4ec5-npritchett-amillerphotography-04-25-6653.jpg",
+      "source_name": "AlphaEDU_PrestonPritchett_AMillerPhotography_04.25-6653.jpg",
+      "pages": [
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 235661
+    },
+    {
+      "file": "src/assets/images/bfa43725-npritchett-amillerphotography-04-25-6694.jpg",
+      "source_name": "AlphaEDU_PrestonPritchett_AMillerPhotography_04.25-6694.jpg",
+      "pages": [
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 265668
+    },
+    {
+      "file": "src/assets/images/e5c4f152-img-1025.jpg",
+      "source_name": "IMG_1025.JPEG",
+      "pages": [
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 424912
+    },
+    {
+      "file": "src/assets/images/f61999de-alphaedustudentpres-52425-8-1.jpg",
+      "source_name": "AlphaEDUStudentPres - 52425-8 (1).jpg",
+      "pages": [
+        "programs"
+      ],
+      "bytes": 245813
+    }
+  ],
+  "videos": [
+    {
+      "file": "public/assets/video/02d142ba.mp4",
+      "poster": "src/assets/posters/02d142ba-poster.jpg",
+      "id": "02d142ba-8cb6-43d4-90ee-c0d38658edac",
+      "pages": [
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 12975675
+    },
+    {
+      "file": "public/assets/video/0b247c20.mp4",
+      "poster": "src/assets/posters/0b247c20-poster.jpg",
+      "id": "0b247c20-3940-41a3-bbe3-eb43a922261b",
+      "pages": [
+        "home"
+      ],
+      "bytes": 5692353
+    },
+    {
+      "file": "public/assets/video/14d688ff.mp4",
+      "poster": "src/assets/posters/14d688ff-poster.jpg",
+      "id": "14d688ff-ec72-4d5d-8777-9646f36a8917",
+      "pages": [
+        "home"
+      ],
+      "bytes": 17711732
+    },
+    {
+      "file": "public/assets/video/41a96617.mp4",
+      "poster": "src/assets/posters/41a96617-poster.jpg",
+      "id": "41a96617-20e0-4152-9de8-92aed2244f9d",
+      "pages": [
+        "home"
+      ],
+      "bytes": 8060034
+    },
+    {
+      "file": "public/assets/video/56853015.mp4",
+      "poster": "src/assets/posters/56853015-poster.jpg",
+      "id": "56853015-0a3f-447e-869a-ea4721fd84e1",
+      "pages": [
+        "home",
+        "programs_presentations-kcgwr"
+      ],
+      "bytes": 18548700
+    },
+    {
+      "file": "public/assets/video/689ca669.mp4",
+      "poster": "src/assets/posters/689ca669-poster.jpg",
+      "id": "689ca669-dc8f-4247-8f23-a7b485ef3f51",
+      "pages": [
+        "about"
+      ],
+      "bytes": 9799674
+    },
+    {
+      "file": "public/assets/video/7bef80dd.mp4",
+      "poster": "src/assets/posters/7bef80dd-poster.jpg",
+      "id": "7bef80dd-37d0-4dd2-9abc-7aad6c9d0952",
+      "pages": [
+        "programs"
+      ],
+      "bytes": 23611217
+    },
+    {
+      "file": "public/assets/video/859fe5d5.mp4",
+      "poster": "src/assets/posters/859fe5d5-poster.jpg",
+      "id": "859fe5d5-fee0-4069-901b-fe22d8f65631",
+      "pages": [
+        "home"
+      ],
+      "bytes": 7797347
+    }
+  ],
+  "note": "Images moved from public/assets/images to src/assets/images in Phase 1 so astro:assets can resize them; videos and posters stay in public/assets/video. Paths are repo-relative."
+}
